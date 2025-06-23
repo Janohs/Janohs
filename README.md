@@ -44,12 +44,12 @@ const janot = {
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -76,13 +76,13 @@ Building intelligent agents that handle the mundane so I can focus on the exciti
 </details>
 
 <details>
-<summary><b>🚀 Serverless Architecture</b></summary>
+<summary><b>🚀 Full-Stack Applications</b></summary>
 <br>
 
-- **Node.js** microservices that scale like dreams
-- **MongoDB** databases that never sleep
-- **Serverless** functions that appear when needed
-- Zero-downtime deployments (mostly 😅)
+- **Next.js** applications with server-side magic
+- **Supabase** backends that just work
+- **Real-time** features that sync like clockwork
+- Zero-config deployments (the dream is real! 🌟)
 
 </details>
 
@@ -98,12 +98,36 @@ Building resilient systems that survive the chaos of real-world usage.
 
 ---
 
-## 📊 **Automation Stats**
+## 🎯 **Automation Arsenal**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true&theme=tokyonight"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Workflows_Built-247-36BCF7?style=for-the-badge&logo=n8n&logoColor=white"/>
+<br>
+<sub><b>⚙️ Automations Deployed</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Hours_Saved-1,432-4CAF50?style=for-the-badge&logo=clock&logoColor=white"/>
+<br>
+<sub><b>⏰ Time Freed Up</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/APIs_Connected-89-FF9800?style=for-the-badge&logo=api&logoColor=white"/>
+<br>
+<sub><b>🔗 Integrations Made</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Coffee_Cups-∞-8D4004?style=for-the-badge&logo=coffee&logoColor=white"/>
+<br>
+<sub><b>☕ Fuel Consumed</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
