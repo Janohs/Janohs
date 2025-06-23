@@ -98,29 +98,12 @@ Building resilient systems that survive the chaos of real-world usage.
 
 ---
 
-## 🎯 **Automation Arsenal**
+## ☕ **Coffees Drunk**
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Workflows_Built-247-36BCF7?style=for-the-badge&logo=n8n&logoColor=white"/>
-<br>
-<sub><b>⚙️ Automations Deployed</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Hours_Saved-1,432-4CAF50?style=for-the-badge&logo=clock&logoColor=white"/>
-<br>
-<sub><b>⏰ Time Freed Up</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/APIs_Connected-89-FF9800?style=for-the-badge&logo=api&logoColor=white"/>
-<br>
-<sub><b>🔗 Integrations Made</b></sub>
-</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Coffee_Cups-∞-8D4004?style=for-the-badge&logo=coffee&logoColor=white"/>
 <br>
